@@ -1,0 +1,2 @@
+droughtMonitor_spider.py和soilMoiMonitor_spider.py为爬取中央气象台的python脚本，未部署，每天运行一次就行
+
