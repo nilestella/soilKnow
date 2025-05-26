@@ -52,9 +52,9 @@ for plant, url in plants.items():
         print(f"Plant: {plant}, Time: {timestamp}, Image URL: {img_url}")
         try:
             conn = mysql.connector.connect(
-                host="47.111.98.49",
+                host="**.***.**.**",
                 user='root',
-                password='123456',
+                password='******',
                 database='farmland202504'
             )
             cursor = conn.cursor()
